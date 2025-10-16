@@ -6,7 +6,7 @@ st.set_page_config(
     layout="wide",   # optional: 'centered' or 'wide'
 )
 
-st.title(Diary of a Wimpy Kid | The Third Wheel")
+st.title("Diary of a Wimpy Kid | The Third Wheel")
 
 pdf_url = "https://jumpshare.com/share/OzBRI4N7wDSZX1kXQn9s"
 
